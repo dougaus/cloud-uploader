@@ -1,0 +1,2 @@
+# add this to incrontab via incrontab -e
+/data/scans IN_CREATE /usr/local/bin/cloud-uploader $@ $#
